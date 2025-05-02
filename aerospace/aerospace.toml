@@ -1,0 +1,80 @@
+start-at-login = true
+enable-normalization-flatten-containers = true
+enable-normalization-opposite-orientation-for-nested-containers = true
+
+default-root-container-layout = 'tiles'
+default-root-container-orientation = 'auto'
+gaps.inner.horizontal = 10
+gaps.inner.vertical = 10
+gaps.outer.left = 10
+gaps.outer.bottom = 10
+gaps.outer.top = 10
+gaps.outer.right = 10
+
+# Keybindings (main mode)
+[mode.main.binding]
+
+# === WM Independent Hotkeys ===
+
+# Terminal emulator
+'alt-enter' = 'exec-and-forget open -n -a kitty'
+
+#browser
+'alt-a' = 'exec-and-forget open -a Zen'
+
+# Spotify
+'alt-q' = 'exec-and-forget open -a Spotify'
+
+# Discord
+'alt-d' = 'exec-and-forget open -a Discord'
+
+# Ranger
+'alt-r' = 'exec-and-forget open -n -a kitty --args -e ranger'
+
+# System monitor
+'ctrl-shift-esc' = 'exec-and-forget open -n -a kitty --args -e htop'
+
+# Reload Aerospace configuration
+'alt-esc' = 'reload-config'
+
+# === bspwm Hotkeys ===
+
+# Quit Aerospace (similar to bspc quit)
+'alt-ctrl-q' = 'exec-and-forget aerospace quit'
+
+# Close window (similar to bspc node -c)
+'alt-w' = 'close'
+
+
+# === State/Flags ===
+
+# Set window state: tiled, pseudo_tiled, floating, fullscreen
+'alt-t' = 'layout tiles' # Tiled layout
+'alt-f' = 'fullscreen' # Fullscreen mode
+
+# Focus or send to given workspace (1-6)
+'alt-1' = 'workspace 1'
+'alt-2' = 'workspace 2'
+'alt-3' = 'workspace 3'
+'alt-4' = 'workspace 4'
+'alt-5' = 'workspace 5'
+'alt-6' = 'workspace 6'
+'alt-shift-1' = 'move-node-to-workspace 1'
+'alt-shift-2' = 'move-node-to-workspace 2'
+'alt-shift-3' = 'move-node-to-workspace 3'
+'alt-shift-4' = 'move-node-to-workspace 4'
+'alt-shift-5' = 'move-node-to-workspace 5'
+'alt-shift-6' = 'move-node-to-workspace 6'
+
+# === Preselect ===
+
+# Preselect direction (Aerospace doesn't support preselection directly, using focus as workaround)
+'alt-ctrl-h' = 'focus left'
+'alt-ctrl-j' = 'focus down'
+'alt-ctrl-k' = 'focus up'
+'alt-ctrl-l' = 'focus right'
+
+
+alt-s = 'layout floating tiling'
+alt-comma = 'join-with left'
+alt-slash = 'join-with right'
