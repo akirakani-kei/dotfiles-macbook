@@ -88,6 +88,5 @@ you clone the things and put them in `~/.config` you're welcome
 | Keys | Action |
 | :--  | :-- |
 | <kbd>option</kbd> + <kbd>[1-6]</kbd> | switch to desktop [1-6]
-| <kbd>option</kbd> + <kbd>Tab</kbd> | switches to previous desktop
 | <kbd>option</kbd> + <kbd>Shift</kbd> + <kbd>[1-6]</kbd> | move active window to desktop [1-6]
 
