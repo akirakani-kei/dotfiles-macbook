@@ -30,6 +30,13 @@ minimalistic macOS+aerospace rice (wallpaper and neovim config stolen from some 
 
 ## Installation
 
+*1. Install dependencies* <br>
+```shell
+brew install kitty ranger neovim neofetch
+# terminal font
+brew install --cask font-jetbrains-mono-nerd-font
+```
+
 you clone the things and put them in `~/.config` you're welcome
 
 
