@@ -47,10 +47,12 @@ you clone the things and put them in `~/.config` you're welcome
 </td></tr></table>
 
 <table><tr><td>
-  <code>s</code><br><code>h</code><br><code>e</code><br><code>l</code><br><code>l</code></td><td><table>
+  <code>e</code><br><code>t</code><br><code>c</code></td><td><table>
   <tr><td>zsh</td><td>shell</td></tr>
   <tr><td>neovim</td><td>text editor</td></tr>
-  <tr><td>neofetch</td><td>sys info</td></tr></table>
+  <tr><td>neofetch</td><td>sys info</td></tr>
+  <tr><td>font</td><td>JetBrainsMono NFM 12</td></tr>
+  <tr><td>colorscheme</td><td>mellow.nvim</td></tr></table>
 </td></tr></table>
 
 
