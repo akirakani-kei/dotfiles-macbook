@@ -44,6 +44,8 @@ sh -c "$(curl -sS https://raw.githubusercontent.com/akirakani-kei/dotfiles-macbo
 ```
 <sub> *optionally get macstats for bar monitors [here](https://mac-stats.com/)*
 
+---------------
+
 ## Dependecies
 
 <table><tr><td>
