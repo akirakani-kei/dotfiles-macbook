@@ -1,6 +1,6 @@
 # DOTFILES
 
-minimalistic rice for macos using aerospace (wallpaper and neovim config stolen from some nerd on r/unixporn)
+minimalistic macOS+aerospace rice (wallpaper and neovim config stolen from some nerd on r/unixporn)
 <br> <br>
 
 <div align = center>
