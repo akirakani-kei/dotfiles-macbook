@@ -33,12 +33,16 @@ minimalistic macOS+aerospace rice (wallpaper and neovim config stolen from some 
 *1. Install dependencies* <br>
 ```shell
 brew install kitty ranger neovim neofetch
+
 # terminal font
 brew install --cask font-jetbrains-mono-nerd-font
 ```
 
-you clone the things and put them in `~/.config` you're welcome
-
+*2. Run the installation script.* <br>
+```shell
+sh -c "$(curl -sS https://raw.githubusercontent.com/akirakani-kei/dotfiles-macbook/refs/heads/main/install.sh)"
+```
+<sub> *optionally get macstats for bar monitors [here](https://mac-stats.com/)*
 
 ## Dependecies
 
