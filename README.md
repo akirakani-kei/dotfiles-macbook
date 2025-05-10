@@ -19,10 +19,14 @@ minimalistic macOS+aerospace rice (wallpaper and neovim config stolen from some 
 
 <img width="1470" alt="image" src="https://github.com/user-attachments/assets/433dbf3a-55bc-48bf-bed6-4a80148afc52" />
 
-<img width="1470" alt="2" src="https://github.com/user-attachments/assets/e7866fea-e56f-451a-96e5-3ce4c71d5122" />
-
 
 <img width="1470" alt="image" src="https://github.com/user-attachments/assets/06cb8f3d-4ec0-48b0-8ead-1abee33beff4" />
+
+
+![image](https://github.com/user-attachments/assets/a31fe017-37dd-4fb6-9bb2-8cc235b50125)
+
+
+<img width="1470" alt="2" src="https://github.com/user-attachments/assets/e7866fea-e56f-451a-96e5-3ce4c71d5122" />
 
 
 -----
